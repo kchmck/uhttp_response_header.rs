@@ -1,0 +1,9 @@
+[package]
+name = "uhttp_response_header"
+version = "0.5.0"
+authors = ["Mick Koch <mick@kochm.co>"]
+description = "HTTP response header lines"
+license = "MIT"
+documentation = "https://docs.rs/uhttp_response_header"
+repository = "https://github.com/kchmck/uhttp_response_header.rs"
+keywords = ["http", "response", "header", "headers"]
